@@ -42,7 +42,7 @@
 - 💬 Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
 
 ## My KDE setup
-<img src="https://i.postimg.cc/qvNdxGKQ/Screenshot-20250513-003515.png" width="500"> <img src="https://i.postimg.cc/W1xcWJ6V/Screenshot-20250513-003519.png" width="500">
+<img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003515.png?raw=true" width="500"> <img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003519.png?raw=true" width="500">
 
 - 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my settings
 
