@@ -37,14 +37,14 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/yuchiidev/) [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxtdragon) 
 
 ## Hobbies
-- Videogames (osu!, Geometry Dash, Teeworlds, Minecraft)
-- Guitar (and music overall)
-- Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
+- 🎮 Videogames (osu!, Geometry Dash, Teeworlds, Minecraft)
+- 🎸 Guitar (and music overall)
+- 💬 Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
 
 ## My KDE setup
 <img src="https://i.postimg.cc/qvNdxGKQ/Screenshot-20250513-003515.png" width="500"> <img src="https://i.postimg.cc/W1xcWJ6V/Screenshot-20250513-003519.png" width="500">
 
-- See [This repo](https://github.com/nexxtdragon/dotfiles) for my settings
+- 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my settings
 
 ## Well, that's it!
-- See ya later, folks!
+- 🫡 See ya later, folks!
