@@ -6,7 +6,6 @@
 ## About me
 - 👋 Hi! I'm **Nextdragon**, a 12 y.o. beginner in web, game, and shell development from Russia *(Also I'm interested in networking and reverse engineering...)*
 - 🌐 English isn't my first language, so I might make some spelling/grammar mistakes
-- 🏳️‍🌈 My orientation is **[Biromantic](https://lgbtqia.fandom.com/wiki/Biromantic) + [Ace](https://lgbtqia.fandom.com/wiki/Asexual)**
 - 🐧 I switched to Linux recently, but already can say "**I use Arch, btw.**"
 - 👀 Fun fact: I randomly got into programming when I was 11 y.o., *and now I'm here*
 
