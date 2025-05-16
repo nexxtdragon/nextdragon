@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/fdb3aaf4-6fee-431a-bd2a-b6afc7792ca7)<div align="center"> 
-  
 # 🌆 Hello there! 
 \
 ![Profile views](https://komarev.com/ghpvc/?username=nexxtdragon&style=for-the-badge)
