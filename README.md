@@ -1,4 +1,4 @@
-<div align="center"> 
+![image](https://github.com/user-attachments/assets/fdb3aaf4-6fee-431a-bd2a-b6afc7792ca7)<div align="center"> 
   
 # 🌆 Hello there! 
 \
@@ -41,10 +41,15 @@
 - 🎸 Guitar (and music overall)
 - 💬 Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
 
-## My KDE setup
+## Arch setup
 <img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003515.png?raw=true" width="500"> <img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003519.png?raw=true" width="500">
 
-- 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my settings
+## NixOS setup
+<img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/2025-05-16_22-58.png?raw=true" width="500"> <img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/2025-05-16_22-59.png?raw=true" width="500">
+
+
+
+- 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my Arch settings (I'll upload my nix config a bit later, didn't finish it yet)
 
 ## Well, that's it!
 - 🫡 See ya later, folks!
