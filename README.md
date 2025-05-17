@@ -34,7 +34,7 @@
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:nextdragon.dev@proton.me)
 
 ## Other links
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/yuchiidev/) [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxtdragon) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/yuchiidev/) [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxtdragon) [![Discord Server](https://img.shields.io/badge/Discord_Server-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qV4Ye3hGNm)
 
 ## Hobbies
 - 🎮 Videogames (osu!, Geometry Dash, Teeworlds, Minecraft)
