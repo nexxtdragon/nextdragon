@@ -41,7 +41,7 @@
 - 🎸 Guitar (and music overall)
 - 💬 Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
 
-## Arch setup
+## (old) Arch setup
 <img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003515.png?raw=true" width="500"> <img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003519.png?raw=true" width="500">
 
 ## NixOS setup
