@@ -41,13 +41,11 @@
 - 🎸 Guitar (and music overall)
 - 💬 Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
 
-## (old) Arch setup
-<img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003515.png?raw=true" width="500"> <img src="https://github.com/nexxtdragon/nextdragon/blob/main/readme-assets/Screenshot_20250513_003519.png?raw=true" width="500">
+## NixOS setup (GNOME & KDE Plasma 6)
+<img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/nixos_new.png?raw=true" width="500">
 
-## NixOS setup
-<img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/2025-05-16_22-58.png?raw=true" width="500"> <img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/2025-05-16_22-59.png?raw=true" width="500">
-
-
+## (old) Arch setup (KDE Plasma 6)
+<img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/arch_old.png?raw=true" width="500">
 
 - 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my Arch settings (I'll upload my nix config a bit later, didn't finish it yet)
 
