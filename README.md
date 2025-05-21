@@ -42,7 +42,7 @@
 - 💬 Designing and making Discord servers/Telegram chats (that i'll never try to promote xD)
 
 ## NixOS setup (GNOME)
-<img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/nixos_new.png?raw=true" width="500">
+<img src="https://github.com/nexxtdragon/dotfiles/raw/main/screenshot.png?raw=true" width="500">
 
 ## (old) Arch setup (KDE Plasma 6)
 <img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/arch_old.png?raw=true" width="500">
