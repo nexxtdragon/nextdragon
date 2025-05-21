@@ -47,7 +47,7 @@
 ## (old) Arch setup (KDE Plasma 6)
 <img src="https://github.com/nexxtdragon/nexxtdragon/blob/main/readme-assets/arch_old.png?raw=true" width="500">
 
-- 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my Arch settings (I'll upload my nix config a bit later, didn't finish it yet)
+- 🔌 See [this repo](https://github.com/nexxtdragon/dotfiles) for my dotfiles
 
 ## Well, that's it!
 - 🫡 See ya later, folks!
