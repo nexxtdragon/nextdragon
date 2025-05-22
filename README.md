@@ -1,8 +1,6 @@
 <div align="center">
 
 # 🌆 Hello there! 
-\
-![Profile views](https://komarev.com/ghpvc/?username=nexxtdragon&style=for-the-badge)
 </div>
 
 ## About me
