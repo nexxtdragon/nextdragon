@@ -8,6 +8,7 @@
 - 🌐 English isn't my first language, so I might make some spelling/grammar mistakes
 - 🐧 I switched to Linux recently, but already can say "**I use Arch, btw.**"
 - 👀 Fun fact: I randomly got into programming when I was 11 y.o., *and now I'm here*
+- 🛠 Me on codeberg: [*click!*](https://codeberg.org/nextdragon)
 
 ## Tech stack
 
