@@ -18,7 +18,7 @@
 
 ## 📌 About me
 </div>
-<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wnvjkb47vauw5xg7xczqeim42q&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+<img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wnvjkb47vauw5xg7xczqeim42q&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
 
 - 👋 I'm **Nextdragon**, a 12 y.o. beginner in web, game, and shell development from Russia<br>*(I'm also interested in networking and reverse engineering...)*
 - 🌐 English isn't my first language, so I might make some spelling/grammar mistakes
