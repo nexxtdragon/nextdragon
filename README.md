@@ -60,3 +60,7 @@
 - 🎮 Videogames (osu!, Geometry Dash, Teeworlds, Minecraft)
 - 🎸 Guitar (and music overall)
 - 💬 Designing and making Discord servers/Telegram chats (that i'll never even try to promote xD)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=black&section=footer&textBg=false">
+</div>
