@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🌆 Hello, world!
-
+*"Your time is limited, so don't waste it living someone else's life." <br>
+— Steve Jobs*
 
 <img src="https://dcbadge.limes.pink/api/shield/1378027451313033349">
 <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/JdMndpT2x8"><br>
