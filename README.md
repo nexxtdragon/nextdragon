@@ -3,7 +3,9 @@
 # 🌆 Hello, world!
 
 
-<img src="https://dcbadge.limes.pink/api/server/https://discord.gg/JdMndpT2x8"> <br>
+<img src="https://dcbadge.limes.pink/api/shield/1378027451313033349">
+<img src="https://dcbadge.limes.pink/api/server/https://discord.gg/JdMndpT2x8"><br>
+
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxtdragon)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:nextdragon.dev@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SSun1ght)
