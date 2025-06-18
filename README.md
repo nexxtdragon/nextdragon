@@ -4,11 +4,11 @@
 *"Your time is limited, so don't waste it living someone else's life." <br>
 — Steve Jobs* <br>
 
-[![Discord](readme-assets/dcbadge.png)](https://discord.com/users/1378027451313033349)
-[![Discord Server](readme-assets/dcserver.png)](https://discord.gg/JdMndpT2x8) <br>
+[![Discord](https://dcbadge.limes.pink/api/shield/1384610412414373980?compact=true)](https://discord.com/users/1384610412414373980)
+[![Discord Server](https://dcbadge.limes.pink/api/server/https://discord.gg/FMnUWCbh?compact=true)](https://discord.gg/FMnUWCbh) <br>
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@nexxtdragon)
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](mailto:nextdragon.dev@proton.me)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SSun1ght)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nijikaijichi)
 </div>
 
 <div align="center">
